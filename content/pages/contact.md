@@ -20,29 +20,14 @@ address: |
 phone: 0987 123 456
 email: example@example.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
   - lat: ''
     lng: ''
-    mapLink: ''
-  - lat: 20.5937° N
-    lng: 78.9629° E
-    mapLink: ''
-  - lat: '31.000000'
-    lng: '-100.000000'
-    mapLink: ''
+    mapLink: 'https://goo.gl/maps/iLzG1UVcG7jHZNVv8'
+  - lat: ''
+    lng: ''
+    mapLink: 'https://goo.gl/maps/fe2whESTTuTcNDYM8'
 meta:
-  description: This is a meta description.
+  description: ''
   title: Contact Page
 ---
-
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+ 
