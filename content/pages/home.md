@@ -2,7 +2,8 @@
 template: HomePage
 slug: ''
 title: Rulesstack
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: >-
+  https://ucarecdn.com/50840304-88fb-4d1c-844b-24e44e25bd70/-/preview/-/enhance/72/
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
   description: This is a meta description.
