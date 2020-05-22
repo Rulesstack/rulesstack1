@@ -18,16 +18,10 @@ address: |
   Texas 
   USA
 phone: 0987 123 456
-email: example@example.com
-locations:
-  - lat: '17.443608'
-    lng: '78.358588'
-    mapLink: ''
-  - lat: '33.142123'
-    lng: '-96.930521'
-    mapLink: ''
+email: hr@rulesstack.com
+locations: []
 meta:
   description: ''
-  title: Contact Page
+  title: Contact Us
 ---
  
