@@ -26,6 +26,12 @@ locations:
   - lat: ''
     lng: ''
     mapLink: ''
+  - lat: 20.5937° N
+    lng: 78.9629° E
+    mapLink: ''
+  - lat: '31.000000'
+    lng: '-100.000000'
+    mapLink: ''
 meta:
   description: This is a meta description.
   title: Contact Page
