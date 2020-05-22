@@ -20,12 +20,12 @@ address: |
 phone: 0987 123 456
 email: example@example.com
 locations:
-  - lat: ''
-    lng: ''
-    mapLink: 'https://goo.gl/maps/iLzG1UVcG7jHZNVv8'
-  - lat: ''
-    lng: ''
-    mapLink: 'https://goo.gl/maps/fe2whESTTuTcNDYM8'
+  - lat: '17.443608'
+    lng: '78.358588'
+    mapLink: ''
+  - lat: '33.142123'
+    lng: '-96.930521'
+    mapLink: ''
 meta:
   description: ''
   title: Contact Page
