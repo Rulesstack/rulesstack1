@@ -72,18 +72,16 @@ class Form extends React.Component {
           {this.state.alert && (
             <div className="Form--Alert">{this.state.alert}</div>
           )}
-          <div className="Form--Group">
-            <label className="Form--Label">
-              <input
-                className="Form--Input Form--InputText"
-                type="text"
-                placeholder="Full Name"
-                name="firstname"
-                required
-              />
-              <span>Firstname</span>
-            </label>
-          </div>
+          <label className="Form--Label">
+            <input
+              className="Form--Input Form--InputText"
+              type="text"
+              placeholder="Full Name"
+              name="fullName"
+              required
+            />
+            <span>Full Name</span>
+          </label>
           <label className="Form--Label">
             <input
               className="Form--Input Form--InputText"
