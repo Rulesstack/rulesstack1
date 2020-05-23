@@ -19,7 +19,10 @@ address: |+
 
 phone: 0987 123 456
 email: hr@rulesstack.com
-locations: []
+locations:
+  - lat: '78.358588'
+    lng: ''
+    mapLink: '17.443608'
 meta:
   description: ''
   title: Contact Us
