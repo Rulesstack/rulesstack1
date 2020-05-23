@@ -31,16 +31,6 @@ export const ContactPageTemplate = ({
         <div>
           <Content source={body} />
           <div className="Contact--Details">
-          {address && (
-              <a
-                className="Contact--Details--Item"
-                href="https://goo.gl/maps/iLzG1UVcG7jHZNVv8"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <MapPin /> {address}
-              </a>
-            )}
             {address && (
               <a
                 className="Contact--Details--Item"
@@ -65,7 +55,7 @@ export const ContactPageTemplate = ({
         </div>
 
         <div>
-          <FormSimpleAjax name="Simple Form Ajax" />
+          <FormSimpleAjax name="Contact Form" />
         </div>
       </div>
     </section>
