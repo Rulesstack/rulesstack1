@@ -23,8 +23,11 @@ locations:
   - lat: '17.443608'
     lng: '78.358588'
     mapLink: ''
+  - lat: ''
+    lng: ''
+    mapLink: ''
 meta:
   description: ''
   title: Contact Us
 ---
-Drop your business email for free Pega Accelerators
+# **Please drop your business email for free Pega Accelerators**
