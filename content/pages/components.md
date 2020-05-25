@@ -3,20 +3,8 @@ template: ComponentsPage
 slug: components
 title: 'Our Services '
 featuredImage: 'https://ucarecdn.com/5b66c896-f030-49c4-8776-679f0682caf7/'
-subtitle: "We provide best Pega Solutions .\n\nPega implementations : \r\n\nPega automation \r\n\nCase Management \r\n\nSSO\r\n\nAI implementations\r\n\nIntegration to all Pega platforms . etc .,"
-section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+subtitle: We provide best Pega Solutions .
+section1: "Pega implementations : \r\n\nPega automation \r\n\nCase Management \r\n\nSSO\r\n\nAI implementations\r\n\nIntegration to all Pega platforms . etc .,"
 section2: |-
   ## You can use videos, images and text.
 
