@@ -7,16 +7,16 @@ featuredImage: >-
 meta:
   description: >-
 
-    We work hard everyday to make Rulesstack standout as most valued service
+    We work hard everyday to make Rulesstack standout as most valued service
     provider . 
 
-    To provide Business users with most compelling technical solutions ever
+    To provide Business users with most compelling technical solutions ever
     possible . 
 
-    To accelerate client Business transition to a best possible implementation
+    To accelerate client Business transition to a best possible implementation
     . 
 
-    To build best technical solutions to drive and give best results to
+    To build best technical solutions to drive and give best results to
     customers .
 ---
 
