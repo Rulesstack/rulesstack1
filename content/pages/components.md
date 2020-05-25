@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: components
 title: 'Our Services '
 featuredImage: 'https://ucarecdn.com/5b66c896-f030-49c4-8776-679f0682caf7/'
-subtitle: We provide best Pega Solutions .
+subtitle: "We provide best Pega Solutions .\n\nPega implementations : \r\n\nPega automation \r\n\nCase Management \r\n\nSSO\r\n\nAI implementations\r\n\nIntegration to all Pega platforms . etc .,"
 section1: >-
   ## This is a container component
 
