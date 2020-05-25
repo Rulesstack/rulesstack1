@@ -35,6 +35,6 @@ gallery:
     title: Yellow Ice Cream
 meta:
   description: This is a meta description.
-  title: Components Page
+  title: Our Services
 ---
 
