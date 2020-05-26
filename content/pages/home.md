@@ -24,6 +24,7 @@ subtitle: >-
   and technology are endlessly advancing.
 meta:
   description: ''
+  noindex: true
   title: Building the future
 ---
 
