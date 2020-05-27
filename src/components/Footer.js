@@ -13,7 +13,7 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          ©  {new Date().getFullYear()} Rulesstack. All rights reserved. 
+          ©  {new Date().getFullYear()} <a href="https://rulesstack.com/">Rulesstack</a>. All rights reserved. 
           
         </span>
       </div>
