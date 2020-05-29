@@ -2,32 +2,39 @@
 template: HomePage
 slug: ''
 title: Rulesstack
-featuredImage: 'https://ucarecdn.com/d60dfec9-b43b-465c-8384-cc0351b21a67/'
+featuredImage: 'https://ucarecdn.com/f7d8d76b-c8b7-41fa-92ad-966b7653589b/'
 subtitle: >-
   Building the future
 
 
-  Rulesstack is an opinionated solutions provider company created to help
-  provide best Business solutions.
+  Rulesstack is an prescient solutions provider company created to help provide
+  best Business solutions.
 
 
-  In Rulesstack we work towards making use of PEGA and provide low cost
-  solutions in tremendously improving client’s business purpose . We analyze and
-  provide best and most fitted solutions as per client requirement . we have
-  most sophisticated and easily accessible team to give best technical solutions
-  to all your needs . 
+  ## We believe in the Mantra 
 
 
-  At Rulesstack Software Solutions, we believe that when it comes to achieving
-  good quality results, you need a meticulously maintained vision, which in turn
-  helps you attain the goals you set for your enterprise. We get that business 
-  and technology are endlessly advancing.
+  # Any sufficiently advanced technology is indistinguishable from Magic as
+  Quoted by Arthur C. Clarke 
+
+
+  At Rulesstack we work towards making use of PEGA technology  in tremendously
+  improving client’s business purpose  and giving most  cost effective
+  solutions.
+
+
+  We analyze and provide best and most fitted solutions as per client
+  requirement . 
+
+
+  We have most sophisticated and easily accessible team to give best technical
+  solutions to all your needs .
 meta:
   description: ''
   noindex: true
   title: Building the future
 ---
-
+At Rulesstack Software Solutions, we believe that when it comes to achieving good quality results, you need a meticulously maintained vision, which in turn helps you attain the goals you set for your enterprise. We get that business  and technology are endlessly advancing.
 
 We thrive to give the solutions that fit best to the clients existing system and with minimal changes . Professional solutions with tailored maintenance for any quick maintenance needs . We help organizations to do more with less by providing most sophisticated solutions . We provide low cost implementations and we have efficient low budget plans for clients . We provide futuristic resolutions that fit for clients vision board reinforcing our brand loyalty to clients in long run .During exclusive times like what we face today we provide effective solutions that helps clients smoothly glide through the crisis hiccups . Not only Business driven we have well versed experts who can handle behavior driven and vision driven solution implementations .  
 
