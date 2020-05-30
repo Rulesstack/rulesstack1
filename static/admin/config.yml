@@ -137,9 +137,9 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/components.md'
-        label: 'Components Page'
-        name: 'components-page'
+      - file: 'content/pages/services.md'
+        label: 'Services'
+        name: 'services'
         fields:
           - {
               label: Template,
