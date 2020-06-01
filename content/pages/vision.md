@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: vision
 title: Our Vision
 featuredImage: 'https://ucarecdn.com/5b66c896-f030-49c4-8776-679f0682caf7/'
-subtitle: We provide best Pega Solutions.
+subtitle: We provide best Pega Solutions. our vision.
 section1: We provide best Pega Solutions.
 section2: |-
   ## You can use videos, images and text.
