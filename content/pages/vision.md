@@ -2,15 +2,21 @@
 template: ComponentsPage
 slug: vision
 title: Our Vision
-featuredImage: 'https://ucarecdn.com/5b66c896-f030-49c4-8776-679f0682caf7/'
-subtitle: We provide best Pega Solutions. our vision.
-section1: We provide best Pega Solutions.
-section2: |-
-  ## You can use videos, images and text.
+featuredImage: 'https://ucarecdn.com/487a94fd-0fc0-417d-a954-2820cbe17546/'
+subtitle: >-
+  At Rulesstack , we provide best Pega Solutions. 
 
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+  > **Our vision**
+
+  >
+
+  >  Is to automate all the tedious and time taking tasks for users and provide
+  them superlative solutions which make them more efficient . To provide
+  inspiring solutions and stand as a pioneer in providing industry driving
+  implications .
+section1: "\rWe work hard everyday to make Rulesstack standout as most valued service provider . \n\nAt Rulesstack, \n\n**Our mission** \r\n\n* Is to provide Business users with most compelling technical solutions ever possible\n* Is to accelerate client Business transition to a best possible implementation \n* Is to build best technical solutions to drive and give best results to customers ."
+section2: "**Objectives**\n\n* As a team we strive towards providing best solutions .\r\n* In today’s business centric economy, we  re-engineer corporate business processes in order by taking  advantage of new technological know-hows in IT. \r\n* We make sure to provide a solution that fits to your evolving business needs. We give our supportive hands to clients to embrace to success . \r\n* Our team works together in providing the most up to date solutions and we help clients to evolve and transition smooth towards the changing times ."
 video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
 videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
 videoTitle: 'Also background videos, with poster image & title overlay.'
