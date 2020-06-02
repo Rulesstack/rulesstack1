@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Locations
-featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
+featuredImage: 'https://ucarecdn.com/30ff09f7-e86a-4c16-953b-d822ebfbb1eb/'
 subtitle: Where are we located
 address: |+
   USA -
