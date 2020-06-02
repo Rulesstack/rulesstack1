@@ -2,15 +2,57 @@
 template: ComponentsPage
 slug: services
 title: Our Services
-featuredImage: 'https://ucarecdn.com/5b66c896-f030-49c4-8776-679f0682caf7/'
-subtitle: We provide best Pega Solutions.
-section1: We provide best Pega Solutions.
-section2: |-
-  ## You can use videos, images and text.
+featuredImage: 'https://ucarecdn.com/d3c65bad-b719-48de-ba84-c09c61b9f3b8/'
+subtitle: "**Our services :**\n\nPega implementations \n\nPega automation \r\n\nCase Management"
+section1: >-
+  * **Who we are :**
 
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  * Located in key global regions US and India.
+
+  * We have implemented many small to large scale PEGA projects.
+
+  * An IT consulting company focusing on Pega solutions.
+
+  * We house a strong pool of “connected” Pega certified Architects.
+
+  * Provide Innovative and Transformative BPM and CRM solutions by leveraging
+  Pega.
+
+  * Excellent  domain knowledge.
+
+  * Our team has comprehensive knowledge in all phases of PEGA Software
+  development and maintenance .
+section2: >-
+  **Why Choose US :**
+
+
+  * We have handpicked  certified developers who are  well-versed in their
+  respective domains who will be available round the clock for your support . 
+
+  * We have a 50-members team who worked for Pega product building extensively
+  in multiple projects . Our associates are most reliable deployed  to provide a
+  gender diverse work space in Rulesstack . 
+
+  * We offer wide range of BPM component involving strategies like case
+  management , SSO ,Pega cloud , Project integration , decision management ,
+  security , User interface  and Project Management frameworks which are basic
+  needs for most industries in today's market . 
+
+  * Strong Management team who steer and boost our clients guaranteeing value
+  deliverable.
+
+  * We help customers in getting a  business solution that involves your
+  complete business modules  which  gives you the elasticity to adjust  and
+  change.\
+
+  * We thrive to provide users with most cost-effective solution ever possible
+  taking into consideration their ever-changing strategies and needs .
+
+  * We have staff placed across multiple locations placed to provide their
+  support from remote as well as onshore spaces 
+
+
+  ****
 video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
 videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
 videoTitle: 'Also background videos, with poster image & title overlay.'
