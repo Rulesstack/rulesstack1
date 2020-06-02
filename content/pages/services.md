@@ -5,7 +5,8 @@ title: Our Services
 featuredImage: 'https://ucarecdn.com/d3c65bad-b719-48de-ba84-c09c61b9f3b8/'
 subtitle: "**Our services :**\n\nPega implementations \n\nPega automation \r\n\nCase Management"
 section1: >-
-  * **Who we are :**
+  **Who we are :**
+
 
   * Located in key global regions US and India.
 
