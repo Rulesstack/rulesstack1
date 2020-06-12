@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Rulesstack
-featuredImage: 'https://ucarecdn.com/92547362-c061-4977-ad7f-7df0e887819e/'
+featuredImage: 'https://ucarecdn.com/015ba05a-27d2-4455-9d37-2dc489ce1c80/'
 subtitle: >-
   _Building the future_
 
@@ -54,12 +54,9 @@ subtitle: >-
   groundbreaking. We take full advantage of growth prospects with our
   comprehension into various industries. Regardless of which industry our client
   belongs to, we have the foresight and the experience to make their conversion
-  successful.
-
-
-  Our varied services  and solutions have been intended to accommodate to the
-  needs of our consumers, to help them become adapted to the ever changing 
-  landscape of their business.
+  successful.Our varied services  and solutions have been intended to
+  accommodate to the needs of our consumers, to help them become adapted to the
+  ever changing  landscape of their business.
 meta:
   description: ''
   noindex: true
