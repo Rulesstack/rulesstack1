@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Rulesstack
-featuredImage: 'https://ucarecdn.com/015ba05a-27d2-4455-9d37-2dc489ce1c80/'
+featuredImage: 'https://ucarecdn.com/85f12e49-b04c-47be-a57d-3aa343353388/'
 subtitle: >-
   _Building the future_
 
