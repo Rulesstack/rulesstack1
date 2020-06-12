@@ -14,17 +14,11 @@ subtitle: >-
   **OUR MANTRA** 
 
 
-  ![](https://ucarecdn.com/03d84604-d73b-4fbc-9bf3-2e6b1269859c/)
-
-
   > **Any sufficiently advanced technology is indistinguishable from Magic**
 
   >
 
   > Quoted by Arthur C. Clarke
-
-
-  ![](https://ucarecdn.com/fe1425d5-3182-4ca4-8739-a73d3e5c0247/)
 
 
   At Rulesstack we work towards making use of PEGA technology  in tremendously
@@ -43,33 +37,24 @@ subtitle: >-
   enterprise. We get that business  and technology are endlessly advancing.
 
 
-  **_We thrive to give the solutions that fit best to the clients existing
-  system and with minimal changes ._** 
-
-
-  Professional solutions with tailored maintenance for any quick maintenance
-  needs . We help organizations to do more with less by providing most
-  sophisticated solutions .
-
-
-  We provide low cost implementations and we have efficient low budget plans for
-  clients . We provide futuristic resolutions that fit for clients vision board
-  reinforcing our brand loyalty to clients in long run .
+  _**We thrive to give the solutions that fit best to the clients existing
+  system and with minimal changes .**_ Professional solutions with tailored
+  maintenance for any quick maintenance needs . We help organizations to do more
+  with less by providing most sophisticated solutions and provide low cost
+  implementations and we have efficient low budget plans for clients . We
+  provide futuristic resolutions that fit for clients vision board reinforcing
+  our brand loyalty to clients in long run .
 
 
   During exclusive times like what we face today we provide effective solutions
   that helps clients smoothly glide through the crisis hiccups . Not only
   Business driven we have well versed experts who can handle behavior driven and
-  vision driven solution implementations .  
-
-
-  To keep up with these vastly changing  times, we at Rulesstack, offer
-  solutions that are swift  and groundbreaking. 
-
-
-  We take full advantage of growth prospects with our comprehension into various
-  industries. Regardless of which industry our client belongs to, we have the
-  foresight and the experience to make their conversion successful. 
+  vision driven solution implementations .  To keep up with these vastly
+  changing  times, we at Rulesstack, offer solutions that are swift  and
+  groundbreaking. We take full advantage of growth prospects with our
+  comprehension into various industries. Regardless of which industry our client
+  belongs to, we have the foresight and the experience to make their conversion
+  successful.
 
 
   Our varied services  and solutions have been intended to accommodate to the
