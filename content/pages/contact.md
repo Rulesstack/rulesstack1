@@ -13,7 +13,7 @@ address: |+
   Urban county,
   Gachibowli,
   Hyderabad
-Phone: +1-(469)-629-9141,+91-799-517-6262
+phone: +1-(469)-629-9141,+91-799-517-6262
 email: hr@rulesstack.com
 locations:
   - lat: ''
