@@ -7,7 +7,7 @@ subtitle: Where are we located
 address: |+
   USA -
   4805 Ray Roberts Dr,
-  Texas\
+  Texas |+
   India-
   Rulesstack Private Limited,
   Urban county,
@@ -28,4 +28,4 @@ meta:
   description: ''
   title: Contact Us
 ---
-# **If you arelooking for Pega Implementers Please, drop your business email.We will reach out to you.**
+# **If you are looking for Pega Implementers Please, drop your business email.We will reach out to you.**
