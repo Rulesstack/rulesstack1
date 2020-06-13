@@ -55,7 +55,7 @@ section2: >-
 
 
 
-****
+
 meta:
   description: This is a meta description.
   title: Our Services
