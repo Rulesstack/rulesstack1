@@ -26,8 +26,8 @@ address: |+
 
 
 Phone: |+
-*USA*- +1-(469)-629-9141 |+
-*India*- +91-7995176262| +
++1-(469)-629-9141 |+
+India- +91-7995176262 |+
 email: hr@rulesstack.com
 locations:
   - lat: ''
