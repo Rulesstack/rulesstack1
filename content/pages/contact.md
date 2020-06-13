@@ -28,4 +28,4 @@ meta:
   description: ''
   title: Contact Us
 ---
-# **Please drop your business email for free Pega Accelerators(Available for client email id only)**
+# **If you are Clinet looking for Pega Implementers ,Please drop your business email for free Pega Accelerator.**
