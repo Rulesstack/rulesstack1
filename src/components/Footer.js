@@ -12,7 +12,7 @@ export default () => (
     <InstagramFeed count="8" />
     <footer className="footer">
       <div className="container taCenter">
-        <span style="color:white">
+        <span>
           ©  {new Date().getFullYear()} <a href="https://rulesstack.com/">Rulesstack</a>. All rights reserved. 
           
         </span>
