@@ -4,16 +4,18 @@ slug: contact
 title: Locations
 featuredImage: 'https://ucarecdn.com/30ff09f7-e86a-4c16-953b-d822ebfbb1eb/'
 subtitle: Where are we located
-address: |+
+address: |
   USA -
+  Rulesstack INC,
   4805 Ray Roberts Dr,
-  Texas |+
+  Frisco,
+  Texas-75036
   India-
   Rulesstack Private Limited,
   Urban county,
   Gachibowli,
   Hyderabad
-phone: +1-(469)-629-9141,+91-799-517-6262
+phone: '+1-(469)-629-9141,+91-799-517-6262'
 email: hr@rulesstack.com
 locations:
   - lat: ''
