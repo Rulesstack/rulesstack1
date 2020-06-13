@@ -5,42 +5,43 @@ title: Our Services
 featuredImage: 'https://ucarecdn.com/d3c65bad-b719-48de-ba84-c09c61b9f3b8/'
 subtitle: "**Our Services :**\n\n Digitilization and Automation of redundant tasks \n\n Innovative solutions which uses Pega's RPA, Workflow intelligence, Decisioning, Omni Channel Delivery \r\n\n "
 section1: >-
-  **Who we are :**
+  **Who are we? :**
 
-
-  * Located in key global regions US and India.
-
-  * We have implemented many small to large scale PEGA projects.
-
-  * An IT consulting company focusing on Pega solutions.
-
+  *   An IT implementation company focusing on Pega solutions.
+  
+  *   Provide Innovative and Transformative BPM and CRM solutions by leveraging
+  Pega.
+  
+  * We have implemented many large scale & Small scale PEGA projects.
+   
   * We house a strong pool of “connected” Pega certified Architects.
-
+  
   * Provide Innovative and Transformative BPM and CRM solutions by leveraging
   Pega.
-
-  * Excellent  domain knowledge.
-
-  * Our team has comprehensive knowledge in all phases of PEGA Software
-  development and maintenance .
+  
+  * Technological team who are SME's of various domains and has hands-on on various Pega Frameworks.
+  
+  * We provide 360 degree support for all Pega implementations.
+  
+  * Located in key global regions US and India.
 section2: >-
   **Why Choose US :**
 
-
-  * We have handpicked  certified developers who are  well-versed in their
-  respective domains who will be available round the clock for your support . 
-
-  * We have a 100-members team who worked for Pega product building extensively
-  in multiple projects . Our associates are most reliable deployed  to provide a
-  gender diverse work space in Rulesstack . 
-
-  * We offer wide range of BPM component involving strategies like case
-  management , SSO ,Pega cloud , Project integration , decision management ,
-  security , User interface  and Project Management frameworks which are basic
-  needs for most industries in today's market . 
-
   * Thought leadership who steer and boost our clients guaranteeing value
-  deliverable.
+  deliverable by considering ever-changing business needs.
+  
+  * Handpicked  certified developers with domain knlowledge on the client business 
+  who will be available round the clock for your support . 
+
+  * 100-members team who worked for Pega product building extensively
+  in multiple projects . Our associates are most reliable deployed  to provide a
+  gender diverse work space in Rulesstack.
+  
+  * Provide accelerators for our client's for the redundant developement of common funcitonality
+  which saves time and money for our Clients.
+  
+  * We offer wide range of BPM component involving levaraging Pega's Omni channel development
+  with RPA,Workflow intelligence and Decisioning hub.
 
   * We help customers in getting a  business solution that involves your
   complete business modules  which  gives you the elasticity to adjust  and
@@ -53,7 +54,7 @@ section2: >-
   support from remote as well as onshore spaces 
 
 
-  ****
+
 
 meta:
   description: This is a meta description.
