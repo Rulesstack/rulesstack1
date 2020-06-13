@@ -52,12 +52,19 @@ section2: >-
 
   * We have staff placed across multiple locations placed to provide their
   support from remote as well as onshore spaces 
+****
+video:
+videoPoster: 
+videoTitle: Comming soon
 
-
-
-
+gallery:
+  
 meta:
   description: This is a meta description.
   title: Our Services
 ---
+
+
+
+
 
