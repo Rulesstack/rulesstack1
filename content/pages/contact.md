@@ -5,23 +5,20 @@ title: Locations
 featuredImage: 'https://ucarecdn.com/30ff09f7-e86a-4c16-953b-d822ebfbb1eb/'
 subtitle: Where are we located
 address: |+
-  USA -|+
+  USA -
 
-  4805 Ray Roberts Dr|+
+  4805 Ray Roberts Dr,
   Texas |+
   
 
   India-
   
-  Rulesstack Private Limited,|+
-  Urban county,|+
-  Gachibowli,|+
-  Hyderabad|+
+  Rulesstack Private Limited,
+  Urban county,
+  Gachibowli,
+  Hyderabad
 
-
-Phone: 
-USA   - +1-(469)-629-9141
-India - +91-799-517-6262
+Phone: USA   - +1-(469)-629-9141,India - +91-799-517-6262
 email: hr@rulesstack.com
 locations:
   - lat: ''
