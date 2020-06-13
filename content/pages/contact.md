@@ -9,11 +9,10 @@ address: |+
 
   4805 Ray Roberts Dr|+
   Texas |+
-  USA|+
+  
 
-
-  India-|+
-
+  India-
+  
   Rulesstack Private Limited,|+
   Urban county,|+
   Gachibowli,|+
@@ -21,8 +20,8 @@ address: |+
 
 
 Phone: 
-USA   -  +1-(469)-629-9141
-India - +91-7995176262
+USA   - +1-(469)-629-9141
+India - +91-799-517-6262
 email: hr@rulesstack.com
 locations:
   - lat: ''
