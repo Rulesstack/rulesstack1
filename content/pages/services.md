@@ -52,10 +52,10 @@ section2: >-
 
   * We have staff placed across multiple locations placed to provide their
   support from remote as well as onshore spaces 
-
+***
 video:
 videoPoster: 
-videoTitle: Comming soon
+videoTitle: Coming soon
 
 gallery:
   
