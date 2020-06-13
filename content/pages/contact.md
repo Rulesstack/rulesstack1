@@ -5,27 +5,29 @@ title: Locations
 featuredImage: 'https://ucarecdn.com/30ff09f7-e86a-4c16-953b-d822ebfbb1eb/'
 subtitle: Where are we located
 address: |+
-  USA -
+  USA -|+
 
-  4805 Ray Roberts Dr
-  Texas 
-  USA
-
-
-  India
-
-  Rulesstack Private Limited,
-  Urban county,
-  Gachibowli,
-  Hyderabad
+  4805 Ray Roberts Dr|+
+  Texas |+
+  USA|+
 
 
+  India-|+
+
+  Rulesstack Private Limited,|+
+  Urban county,|+
+  Gachibowli,|+
+  Hyderabad|+
 
 
 
 
 
-phone: +1-469-629-9141 </br> +91-7995176262</br>
+
+
+Phone: |+
+*USA*- +1-(469)-629-9141 |+
+*India*- +91-7995176262| +
 email: hr@rulesstack.com
 locations:
   - lat: ''
@@ -40,4 +42,4 @@ meta:
   description: ''
   title: Contact Us
 ---
-# **Please drop your business email for free Pega Accelerators**
+# **Please drop your business email for free Pega Accelerators(Available for client email id only)**
