@@ -52,8 +52,8 @@ section2: >-
   taking into consideration their ever-changing strategies and needs .
 
   * We have staff placed across multiple locations placed to provide their
-  support from remote as well as onshore spaces 
-***
+  support from remote as well as onshore spaces.
+
 video:
 videoPoster: 
 videoTitle: Coming soon
