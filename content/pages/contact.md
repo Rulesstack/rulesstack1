@@ -17,7 +17,7 @@ address1: |
   Gachibowli,
   Hyderabad
 phone: '+1-(469)-629-9141'
-phone1:'+91-799-517-6262'
+phone1: '+91-799-517-6262'
 email: hr@rulesstack.com
 locations:
   - lat: ''
