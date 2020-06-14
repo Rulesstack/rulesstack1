@@ -6,7 +6,7 @@ featuredImage: 'https://ucarecdn.com/d3c65bad-b719-48de-ba84-c09c61b9f3b8/'
 subtitle: "**Our services :**\n\nPega implementations \n\nPega automation \r\n\nCase Management"
 section1: >-
   * **Who we are :**
-  **Who we are :**
+  *
   * Located in key global regions US and India.
   * We have implemented many small to large scale PEGA projects.
   * An IT consulting company focusing on Pega solutions.
@@ -31,12 +31,12 @@ section2: >-
   deliverable.
   * We help customers in getting a  business solution that involves your
   complete business modules  which  gives you the elasticity to adjust  and
-  change.\
+  change.
   * We thrive to provide users with most cost-effective solution ever possible
   taking into consideration their ever-changing strategies and needs .
   * We have staff placed across multiple locations placed to provide their
   support from remote as well as onshore spaces 
-  ****
+ 
 
 meta:
   description: This is a meta description.
