@@ -54,9 +54,12 @@ section2: >-
   * We have staff placed across multiple locations placed to provide their
   support from remote as well as onshore spaces.
 
-video:
-videoPoster: 
-
+<iframe width="560" height="315"
+  src="https://drive.google.com/file/d/1PfTlpaft8xqsu8bMlAab8g0uz224Lixb/view?usp=sharing" frameborder="0"
+  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+video: 'https://drive.google.com/file/d/1PfTlpaft8xqsu8bMlAab8g0uz224Lixb/view?usp=sharing'
+videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
+videoTitle: 'Pega Infinity (From Pega)'
 
 gallery:
   
