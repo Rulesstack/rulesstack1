@@ -16,7 +16,8 @@ export const ComponentsPageTemplate = ({
   featuredImage,
   section1,
   section2,
-  body
+  body,
+  gallery
   
 }) => (
   <main>
