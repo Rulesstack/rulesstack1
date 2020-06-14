@@ -64,7 +64,7 @@ const ComponentsPage = ({ data: { page } }) => (
   </Layout>
 )
 
-export default ComponentsPage
+export default NoVideoTemp
 
 export const pageQuery = graphql`
   query ComponentsPage($id: String!) {
