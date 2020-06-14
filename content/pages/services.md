@@ -54,7 +54,6 @@ section2: >-
   support from remote as well as onshore spaces.
 
 
-**Pega Infinity (From Pega)**
 <iframe width="700" height="394" src="https://www.youtube.com/embed/TVjYYlQu8Ns" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
