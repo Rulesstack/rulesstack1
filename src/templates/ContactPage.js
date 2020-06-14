@@ -16,7 +16,9 @@ export const ContactPageTemplate = ({
   subtitle,
   featuredImage,
   address,
+  address1,
   phone,
+  phone1,  
   email,
   locations
 }) => (
@@ -41,9 +43,24 @@ export const ContactPageTemplate = ({
                 <MapPin /> {address}
               </a>
             )}
+{address1 && (
+              <a
+                className="Contact--Details--Item"
+                href="https://goo.gl/maps/fe2whESTTuTcNDYM8"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <MapPin /> {address1}
+              </a>
+            )}
             {phone && (
               <a className="Contact--Details--Item" href={`tel:${phone}`}>
                 <Smartphone /> {phone}
+              </a>
+            )}
+{phone1 && (
+              <a className="Contact--Details--Item" href={`tel:${phone1}`}>
+                <Smartphone /> {phone1}
               </a>
             )}
             {email && (
@@ -86,7 +103,9 @@ export const pageQuery = graphql`
         subtitle
         featuredImage
         address
+        address1
         phone
+        phone1
         email
         locations {
           mapLink
