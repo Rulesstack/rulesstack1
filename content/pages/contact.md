@@ -10,12 +10,14 @@ address: |
   4805 Ray Roberts Dr,
   Frisco,
   Texas-75036
+address1: |
   India-
   Rulesstack Private Limited,
   Urban county,
   Gachibowli,
   Hyderabad
-phone: '+1-(469)-629-9141,+91-799-517-6262'
+phone: '+1-(469)-629-9141'
+phone1:'+91-799-517-6262'
 email: hr@rulesstack.com
 locations:
   - lat: ''
@@ -30,4 +32,4 @@ meta:
   description: ''
   title: Contact Us
 ---
-# **If you are looking for Pega Implementers Please, drop your business email.We will reach out to you.**
+# **If you are looking for Pega Implementers, Please drop your business email.We will reach out to you.**
