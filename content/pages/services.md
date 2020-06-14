@@ -3,8 +3,7 @@ template: ComponentsPage
 slug: services
 title: Our Services
 featuredImage: 'https://ucarecdn.com/d3c65bad-b719-48de-ba84-c09c61b9f3b8/'
-subtitle: "**Our Services :**\n\n Digitilization and Automation of redundant tasks \r\n\n 
-Innovative solutions which uses Pega's RPA, Workflow intelligence, Decisioning & Omni Channel Delivery"
+subtitle: "**Our Services :**\n\n Digitilization and Automation of redundant tasks \r\n\n Innovative solutions which uses Pega's RPA, Workflow intelligence, Decisioning & Omni Channel Delivery"
 section1: >-
   **Who are we? :**
 
