@@ -56,7 +56,7 @@ section2: >-
 
 video:
 videoPoster: 
-videoTitle: Coming soon
+
 
 gallery:
   
