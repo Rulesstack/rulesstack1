@@ -1,6 +1,6 @@
 .footer {
   padding: 2rem 0;
-  background: #F5DEB3;
+  background: var(--backgrndclr);
   font-size: 1.2rem;
 }
 
