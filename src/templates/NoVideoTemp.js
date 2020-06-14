@@ -67,7 +67,7 @@ const NoVideoTemp = ({ data: { page } }) => (
 export default NoVideoTemp
 
 export const pageQuery = graphql`
-  query ComponentsPage($id: String!) {
+  query NoVideoTemp($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       ...Gallery
