@@ -16,12 +16,8 @@ export const ComponentsPageTemplate = ({
   featuredImage,
   section1,
   section2,
-  video,
-  videoPoster,
-  videoTitle,
-  accordion,
-  body,
-  gallery
+  body
+  
 }) => (
   <main>
     <PageHeader
@@ -48,17 +44,8 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
 
-    <section className="BackgroundVideo-section section">
-      <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
-        {video && <source src={video} type="video/mp4" />}
-      </BackgroundVideo>
-    </section>
 
-    <section className="section">
-      <div className="container">
-        <Accordion items={accordion} />
-      </div>
-    </section>
+   
 
     <section className="section">
       <div className="container">
@@ -94,14 +81,7 @@ export const pageQuery = graphql`
         featuredImage
         section1
         section2
-        video
-        videoPoster
-        videoTitle
-        accordion {
-          title
-          description
-        }
-      }
+             }
     }
   }
 `
