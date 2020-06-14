@@ -56,11 +56,10 @@ section2: >-
   
   ****
 
-video: ''
+videoTitle: 'Pega Infinity (From Pega)'
 <iframe width="700" height="394" src="https://www.youtube.com/embed/TVjYYlQu8Ns" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
-videoTitle: 'Pega Infinity (From Pega)'
+
 
 
 meta:
