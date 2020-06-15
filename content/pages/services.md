@@ -3,7 +3,9 @@ template: ComponentsPage
 slug: services
 title: Our Services
 featuredImage: 'https://ucarecdn.com/d3c65bad-b719-48de-ba84-c09c61b9f3b8/'
-subtitle: "**Our Services :**\n\n Pegasystems Innovative Development, Implementaion \n\n Pega RPA \r\n\n Mobile Apps"
+subtitle: "**Our Services :**\n\n Business COnsulting \n\n Program & Project Management \n\n Business Process Analysis & Engineering
+Agile Project Execution \r\n\n  Application Development & maintenance"
+
 section1: >-
   **Who are are :**
   
@@ -42,7 +44,7 @@ section2: >-
 
   * We have staff placed across multiple locations placed to provide their support from remote as well as onshore spaces.
   
-  * **Pega Infinity (From Pega)**
+
 <iframe width="700" height="394" src="https://www.youtube.com/embed/TVjYYlQu8Ns" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
