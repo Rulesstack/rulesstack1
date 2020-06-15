@@ -36,6 +36,11 @@ section2: >-
   taking into consideration their ever-changing strategies and needs .
   * We have staff placed across multiple locations placed to provide their
   support from remote as well as onshore spaces 
+  
+  gallery:
+  - alt: Pega Infinity
+    image: 'https://www.pega.com/sites/default/files/styles/1024/public/media/images/2020-04/pega-deliver-.jpg?itok=rv2TwrQC'
+    title: Pega's Deployment
  
 
 meta:
