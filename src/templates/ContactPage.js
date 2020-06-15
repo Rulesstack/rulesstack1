@@ -46,7 +46,7 @@ export const ContactPageTemplate = ({
 {address1 && (
               <a
                 className="Contact--Details--Item"
-                href="https://goo.gl/maps/fe2whESTTuTcNDYM8"
+                href="https://goo.gl/maps/bcJTkrNRTpKPApB59"
                 target="_blank"
                 rel="noopener noreferrer"
               >
