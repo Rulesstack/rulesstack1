@@ -7,7 +7,7 @@ subtitle: "**Our Services :**\n\n Business COnsulting \n\n Program & Project Man
 Agile Project Execution \r\n\n  Application Development & maintenance"
 
 section1: >-
-  **Who are are :**
+  **Who are we :**
   
   *   An IT implementation company focusing on Pega solutions.
   
