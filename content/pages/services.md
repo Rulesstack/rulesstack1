@@ -1,5 +1,5 @@
 ---
-template: NoVideoTemp
+template: ComponentsPage
 slug: services
 title: Our Services
 featuredImage: 'https://ucarecdn.com/d3c65bad-b719-48de-ba84-c09c61b9f3b8/'
