@@ -43,8 +43,7 @@ section2: >-
   * We thrive to provide users with most cost-effective solution ever possible taking into consideration their ever-changing strategies and needs .
 
   * We have staff placed across multiple locations placed to provide their support from remote as well as onshore spaces.
-<iframe width="700" height="394" src="https://www.youtube.com/embed/TVjYYlQu8Ns" 
-frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 
 meta: 
   description: This is a meta description.
