@@ -15,7 +15,7 @@ section1: >-
   Pega.
   
   * We have implemented many large scale & Small scale PEGA projects.
-   
+  
   * We house a strong pool of “connected” Pega certified Architects.
   
   * Provide Innovative and Transformative BPM and CRM solutions by leveraging
@@ -29,9 +29,9 @@ section1: >-
 section2: >-
   **Why Choose US :**
    * Thought leadership who steer and boost our clients guaranteeing value deliverable by considering ever-changing business needs.
+   
+  * Handpicked  certified developers with domain knlowledge on the client business who will be available round the clock for your support .
   
-  * Handpicked  certified developers with domain knlowledge on the client business who will be available round the clock for your support . 
-
   * 100-members team who worked for Pega product building extensively in multiple projects . Our associates are most reliable deployed  to provide a gender diverse work space in Rulesstack.
   
   * Provide accelerators for our client's for the redundant developement of common funcitonality which saves time and money for our Clients.
