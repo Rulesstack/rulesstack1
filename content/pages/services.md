@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: services
 title: Our Services
 featuredImage: 'https://ucarecdn.com/d3c65bad-b719-48de-ba84-c09c61b9f3b8/'
-subtitle: "**Our Services :**\n\n Business COnsulting \n\n Program & Project Management \n\n Business Process Analysis & Engineering
+subtitle: "**Our Services :**\n\n Business Consulting \n\n Program & Project Management \n\n Business Process Analysis & Engineering
 Agile Project Execution \r\n\n  Application Development & maintenance"
 
 section1: >-
